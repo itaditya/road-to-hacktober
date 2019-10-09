@@ -3,5 +3,5 @@
 ### Contributors
 
 1. Aditya Agarwal
-2. Khusharth Patani
-3. Srihari
+1. Khusharth Patani
+1. Srihari
